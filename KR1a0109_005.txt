@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易用
-#+DATE: 2015-09-23 09:35:15
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 21:58:10.119585
+#+PROPERTY: ID KR1a0109
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1a0109_WYG_005-1a>¶
 欽定四庫全書¶
 　易用卷五¶
@@ -281,4 +283,3 @@
 心故人不能欺以詞是之謂知險知阻矣¶
 　¶
 　易用卷五¶
-
